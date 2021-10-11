@@ -1,5 +1,7 @@
 Aptitude Mirror
 
+edit /etc/apt/sources.list
+
 ```
 Ubuntu 20.04 Focal Fossa
 In Ubuntu 20.04, you can use the mirror by adding the following to the /etc/apt/sources.list file:
