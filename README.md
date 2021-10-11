@@ -1,6 +1,6 @@
 Aptitude Mirror
 
-#
+```
 Ubuntu 20.04 Focal Fossa
 In Ubuntu 20.04, you can use the mirror by adding the following to the /etc/apt/sources.list file:
 
@@ -30,4 +30,4 @@ You can configure the Hetzner mirror in the preseed files as follows: (You can r
 
 d-i mirror/http/hostname string mirror.hetzner.com
 d-i mirror/http/directory string /debian/packages
-
+```
